@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="something_wrong">Произошла ошибка</string>
+    <string name="update">Обновить</string>
+    <string name="search">Поиск</string>
+    <string name="enter_city">Введите название города...</string>
+</resources>

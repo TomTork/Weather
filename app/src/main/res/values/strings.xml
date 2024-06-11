@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="something_wrong">There was an error</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="enter_city">Enter the name of the city...</string>
+</resources>
